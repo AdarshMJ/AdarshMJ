@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh
 - 👀 I’m interested in graph representation learning and geometric deep learning.
-- 🌱 Masters in Computer Science from Saarland University.
+- 🌱 I have a Masters degree in Computer Science from Saarland University.
 
 
 <!---
